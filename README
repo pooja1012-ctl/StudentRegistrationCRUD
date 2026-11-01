@@ -1,0 +1,29 @@
+# Student Registration CRUD Web Application
+
+A Java-based web application developed using Java Servlets, JSP, JDBC, and MySQL/PostgreSQL.
+
+## Features
+- Add new students
+- View all registered students
+- Edit student details
+- Delete student records
+- Database connectivity using JDBC
+- Duplicate email validation
+- Form validation and error handling
+- Responsive user interface using Bootstrap
+
+## Technologies Used
+- Java
+- Servlets
+- JSP
+- JDBC
+- HTML
+- CSS
+- Bootstrap
+- MySQL / PostgreSQL
+- Apache Tomcat
+- Eclipse IDE
+- Maven
+
+## Project Purpose
+This project demonstrates Java web development concepts, CRUD operations, database connectivity, and MVC architecture.
